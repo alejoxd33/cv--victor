@@ -1,0 +1,28 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: blue;
+    display: flow-root;
+}
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0%;
+}
+div.enunciado{
+    text-align: center;
+    
+}
+section{
+     text-align: center;
+     background-color: lightgray;
+}
+img{
+    height: 200px;
+}
+section#contenido{
+   
+    display: flex;
+    flex-direction: column-reverse;
+    
+
+}
